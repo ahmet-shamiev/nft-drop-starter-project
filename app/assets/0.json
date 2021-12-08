@@ -1,0 +1,24 @@
+{
+    "name": "SIMPLY_RED",
+    "symbol": "",
+    "image": "0.png",
+    "description": "Always on radar",
+    "collection": {
+        "name": "Random favorites",
+        "family": "Cosmos"
+     },
+    "properties": {
+      "files": [
+        {
+          "uri": "0.png",
+          "type": "image/png"
+        }
+      ],
+      "creators": [
+        {
+          "address": "9SHdnhx7XC71NxRgN6EP4UZj1GNUUSmYPZFMsqEngQGG",
+          "share": 100
+        }
+      ]
+    }
+  }
